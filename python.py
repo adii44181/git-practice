@@ -1,0 +1,5 @@
+''' PRACTICE FOR GITHUB '''
+#THIS IS A COMMENT IN PYTHON IGNORE THIS
+a=2
+b=3
+print(a+b) 
